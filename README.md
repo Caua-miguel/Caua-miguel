@@ -7,7 +7,11 @@ Trabalhar com servidores, jogos e firmware são áreas que me interessam também
 
 Atualmente, eu trabalho em uma empresa de telecomunicação há um ano e seis meses como analista de T.I, fazendo suporte técnico para a infraestrutura interna da empresa. Manutenção de hadware, software e gerência de dados dos colaboradores é o que eu mais faço.
 
-## Linguagens e projetos.
+## Tecnologias
+
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,arch,discord,idea,raspberrypi,threejs,sqlite,js)](https://skillicons.dev)
+
+## Projetos.
 **Java:** Estou desenvolvendo um bot de discord para a empresa **Ômega Data Sistemas**. Esse bot vai servir para ajudar a gerenciar as equipes na hora do preparo do café. 
 A ideia principal é que o administrador possa direcionar sua equipe com alguns simples comandos. O repositório com o projeto é o **/StanleyBot**.
   

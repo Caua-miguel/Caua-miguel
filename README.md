@@ -24,7 +24,7 @@ O repositório pode ser encontrado com o **/Atletica-IFSC**.
   <img loading="lazy" src="https://img.shields.io/badge/-Projetos-%23000000?style=for-the-badge&logo=adobe&logoColor=white" alt="Projetos PDF">
 </a>
 
-## Contatos:
+## Contatos
 
 <div>
 <a href="https://github.com/Caua-miguel/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>

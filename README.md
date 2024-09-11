@@ -19,6 +19,14 @@ Deixei um link para o meu portfólio de projetos em pdf:
 
 [Portifólio_de_Projetos.pdf](https://github.com/user-attachments/files/16967878/Portifolio_de_Projetos.pdf)
 
+## Contatos
+
+**E-mail:** caua.sudol@gmail.com
+
+**Linkedin:** [Meu-Linkdin](https://www.linkedin.com/in/caua-miguel/)
+
+**GitHub:** [Meu-Git](https://github.com/Caua-miguel/)
+
 
 
 

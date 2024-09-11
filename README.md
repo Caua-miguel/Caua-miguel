@@ -12,7 +12,7 @@ Atualmente, eu trabalho em uma empresa de telecomunicação há um ano e seis me
 A ideia principal é que o administrador possa direcionar sua equipe com alguns simples comandos. O repositório com o projeto é o **/StanleyBot**.
   
 **HTML/CSS-Tailwind:** Estou desenvolvendo um site para a Atlética que estamos montando na minha universidade. O objetivo é ser um site simples para o pessoal do campus conseguir saber um pouco da iniciativa e conseguir entrar em contato com os líderes.
-O repositório pode ser encontrado com o **/Atlética-IFSC**.
+O repositório pode ser encontrado com o **/Atletica-IFSC**.
 
 ## Portfólio
 Deixei um link para o meu portfólio de projetos em pdf:

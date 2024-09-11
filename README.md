@@ -11,7 +11,7 @@ Atualmente, eu trabalho em uma empresa de telecomunicação há um ano e seis me
 
 [![My Skills](https://skillicons.dev/icons?i=java,html,css,arch,discord,idea,raspberrypi,threejs,sqlite,js)](https://skillicons.dev)
 
-## Projetos.
+## Projetos
 **Java:** Estou desenvolvendo um bot de discord para a empresa **Ômega Data Sistemas**. Esse bot vai servir para ajudar a gerenciar as equipes na hora do preparo do café. 
 A ideia principal é que o administrador possa direcionar sua equipe com alguns simples comandos. O repositório com o projeto é o **/StanleyBot**.
   

@@ -15,17 +15,18 @@ A ideia principal é que o administrador possa direcionar sua equipe com alguns 
 O repositório pode ser encontrado com o **/Atletica-IFSC**.
 
 ## Portfólio
-Deixei um link para o meu portfólio de projetos em pdf:
 
-[Portifólio_de_Projetos.pdf](https://github.com/user-attachments/files/16967878/Portifolio_de_Projetos.pdf)
+<a href="https://github.com/user-attachments/files/16967878/Portifolio_de_Projetos.pdf" target="_blank">
+  <img loading="lazy" src="https://img.shields.io/badge/-Projetos-%23000000?style=for-the-badge&logo=adobe&logoColor=white" alt="Projetos PDF">
+</a>
 
-## Contatos
+## Contatos:
 
-**E-mail:** caua.sudol@gmail.com
-
-**Linkedin:** [Meu-Linkdin](https://www.linkedin.com/in/caua-miguel/)
-
-**GitHub:** [Meu-Git](https://github.com/Caua-miguel/)
+<div>
+<a href="https://github.com/Caua-miguel/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href = "mailto:caua.sudol@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https:/www.linkedin.com/in/caua-miguel/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 
 

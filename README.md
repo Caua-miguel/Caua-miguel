@@ -24,7 +24,7 @@ O repositório pode ser encontrado com o **/Atletica-IFSC**.
   <img loading="lazy" src="https://img.shields.io/badge/-Portfólio-%23000000?style=for-the-badge&logo=adobe&logoColor=white" alt="Projetos PDF">
 </a>
 
-<a href="https://github.com/user-attachments/files/17003492/Colecao.de.projetos-1.pdf" target="_blank">
+<a href="https://github.com/user-attachments/files/17003492/Colecao.de.projetos.pdf" target="_blank">
   <img loading="lazy" src="https://img.shields.io/badge/-Coleção de projetos-%23000000?style=for-the-badge&logo=adobe&logoColor=white" alt="Projetos PDF">
 </a>
 

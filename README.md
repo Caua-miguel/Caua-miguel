@@ -20,8 +20,12 @@ O repositório pode ser encontrado com o **/Atletica-IFSC**.
 
 ## Portfólio
 
-<a href="https://github.com/user-attachments/files/17002705/Portfolio.de.projetos.-.Caua.Miguel.pdf" target="_blank">
-  <img loading="lazy" src="https://img.shields.io/badge/-Projetos-%23000000?style=for-the-badge&logo=adobe&logoColor=white" alt="Projetos PDF">
+<a href="https://github.com/user-attachments/files/17003416/Portfolio.pdf" target="_blank">
+  <img loading="lazy" src="https://img.shields.io/badge/-Portfólio-%23000000?style=for-the-badge&logo=adobe&logoColor=white" alt="Projetos PDF">
+</a>
+
+<a href="https://github.com/user-attachments/files/17003417/Colecao.de.projetos.pdf" target="_blank">
+  <img loading="lazy" src="https://img.shields.io/badge/-Coleção de projetos-%23000000?style=for-the-badge&logo=adobe&logoColor=white" alt="Projetos PDF">
 </a>
 
 ## Contatos

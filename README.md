@@ -13,7 +13,7 @@ Trabalhar com servidores, jogos e firmware são áreas que me interessam também
 **Java:** Estou desenvolvendo um bot de discord para a empresa **Ômega Data Sistemas**. Esse bot vai servir para ajudar a gerenciar as equipes na hora do preparo do café. 
 A ideia principal é que o administrador possa direcionar sua equipe com alguns simples comandos. O repositório com o projeto é o **/StanleyBot**.
   
-**HTML/CSS-Bootstrap/python:** Estou desenvolvendo um site com o objetivo de ter um funcionamento de um chat onde qualquer um pode entrar e começar a falar no chat, apenas para fins de aprendizado. O repositório com o projeto é o **/chat-esquizofrenico**.
+**HTML/CSS-Bootstrap/python:** Estou desenvolvendo um site com o objetivo de ter um funcionamento de um chat onde qualquer um pode entrar e começar a falar no chat, apenas para fins de aprendizado. O repositório com o projeto é o **/livraria-web**.
 
 ## Contatos
 
